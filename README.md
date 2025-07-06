@@ -1,1 +1,3 @@
 # Tableau-Project-Stusent-Habit-Performance
+This project analyzes a comprehensive dataset of 1,000 students, focusing on the relationship between daily habits and academic performance. With the increasing interest in student wellness and productivity, this dataset provides valuable insights into how factors like sleep, study hours, diet, and screen time influence exam outcomes.
+Each record in the dataset represents a student profile containing demographic details, lifestyle habits, and their final exam score (out of 100). By visualizing and analyzing these patterns in Tableau, we aim to uncover trends that highlight positive behaviors correlated with academic success and identify areas where students may need support.
